@@ -1,6 +1,7 @@
 ## Hi there, Mohammad Abith here
-## Currently in my Pre-Final year looking for some Intersnship opportunities.
-## 🌱 I’m currently learning DSA (GeeksForGeeks)
+## Currently in my Pre-Final year.
+## Full-Stack Development
+## 🌱 Learning Data S Algorithms (GeeksForGeeks)
 ## 📫 How to reach me: manuabith@gmail.com
 ## LinkedIn : https://www.linkedin.com/in/mohammad-abith-80b074355
 
