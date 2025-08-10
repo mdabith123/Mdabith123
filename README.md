@@ -1,7 +1,7 @@
 ## Hi there, Mohammad Abith here
-## Currently in my Pre-Final year.
+## In my Final year (CSE).
 ## Full-Stack Development
-## 🌱 Learning Data S Algorithms (GeeksForGeeks)
+## 🌱 Currently enhancing my skills, by working on real world projects and problems.
 ## 📫 How to reach me: manuabith@gmail.com
 ## LinkedIn : https://www.linkedin.com/in/mohammad-abith-80b074355
 
